@@ -1,4 +1,3 @@
-ansible_install.sh 
 
 #!/bin/sh
 
